@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../桌面/cpp5Caster/start.png</file>
+        <file>../../../桌面/cpp5Caster/stop.png</file>
+        <file>start.png</file>
+        <file>stop.png</file>
+    </qresource>
+</RCC>
